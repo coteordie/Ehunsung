@@ -40,7 +40,6 @@
         JAVA
       </td>
     </tr>
-    
     <tr>
       <td align="center">
         2
