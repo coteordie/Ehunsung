@@ -150,7 +150,7 @@
     </tr>  
     <tr>
       <td align="center">
-        7
+        6
       </td>
       <td align="center">
         백준
@@ -177,7 +177,7 @@
     </tr>   
     <tr>
       <td align="center">
-        8
+        7
       </td>
       <td align="center">
         백준
@@ -204,7 +204,7 @@
     </tr>
     <tr>
       <td align="center">
-        9
+        8
       </td>
       <td align="center">
         백준
