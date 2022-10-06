@@ -1,6 +1,6 @@
-# Week2
+# Week3
 ### Greedy Algorithm
-### 2022.09.21 ~ 2022.09.28
+### 2022.09.28 ~ 2022.10.05
 ---
 <div align="center">
   <table>
@@ -21,19 +21,19 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/11047">
-            11047
+        <a href="https://www.acmicpc.net/problem/1541">
+            1541
         </a>
       </td>
       <td align="center">
-        동전 0
+        잃어버린 괄호
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190454006-3ba049b0-f664-4a19-bb79-99536e1ead36.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week2/Day4/BOJ_11047.java">
-            Day4
+        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week3/Day9/BOJ_1541.java">
+            Day9
         </a>
       </td>
       <td align="center">
@@ -48,19 +48,19 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/5585">
-            5585
+        <a href="https://www.acmicpc.net/problem/11508">
+            11508
         </a>
       </td>
       <td align="center">
-        거스름돈
+        2+1세일
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week2/Day4/BOJ_5585.java">
-            Day4
+        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week3/Day10/BOJ_11508.java">
+            Day10
         </a>
       </td>
       <td align="center">
@@ -75,25 +75,25 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/10162">
-            10162
+        <a href="https://www.acmicpc.net/problem/16953">
+            16953
         </a>
       </td>
       <td align="center">
-        전자레인지
+        A->B
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453889-3852a30e-37f9-4a73-8622-47247332271d.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190454006-3ba049b0-f664-4a19-bb79-99536e1ead36.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week2/Day5/BOJ_10162.java">
-            Day5
+        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week3/Day11/BOJ_16953.java">
+            Day11
         </a>
       </td>
       <td align="center">
         JAVA
       </td>
-    </tr>
+    </tr> 
     <tr>
       <td align="center">
         4
@@ -102,19 +102,19 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/2217">
-            2217
+        <a href="https://www.acmicpc.net/problem/1092">
+            1092
         </a>
       </td>
       <td align="center">
-        로프
+        배
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190454021-beb785c5-29eb-434f-9dde-1f3f9132e5d9.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week2/Day6/BOJ_2217.java">
-            Day6
+        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week3/Day11/BOJ_1092.java">
+            Day11
         </a>
       </td>
       <td align="center">
@@ -129,73 +129,19 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/14916">
-            14916
+        <a href="https://www.acmicpc.net/problem/13164">
+            13164
         </a>
       </td>
       <td align="center">
-        거스름돈
+        행복유치원
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453907-cf6d0fe5-1373-4418-a057-c49235452bfb.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190454021-beb785c5-29eb-434f-9dde-1f3f9132e5d9.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week2/Day6/BOJ_14916.java">
-            Day6
-        </a>
-      </td>
-      <td align="center">
-        JAVA
-      </td>
-    </tr>  
-    <tr>
-      <td align="center">
-        6
-      </td>
-      <td align="center">
-        백준
-      </td>
-      <td align="center">
-        <a href="https://www.acmicpc.net/problem/2839">
-            2839
-        </a>
-      </td>
-      <td align="center">
-        설탕배달
-      </td>
-      <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
-      </td>
-      <td align="center">
-        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week2/Day6/BOJ_2839.java">
-            Day6
-        </a>
-      </td>
-      <td align="center">
-        JAVA
-      </td>
-    </tr>   
-    <tr>
-      <td align="center">
-        7
-      </td>
-      <td align="center">
-        백준
-      </td>
-      <td align="center">
-        <a href="https://www.acmicpc.net/problem/2864">
-            2864
-        </a>
-      </td>
-      <td align="center">
-        5와 6의 차이
-      </td>
-      <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
-      </td>
-      <td align="center">
-        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week2/Day7/BOJ_2864.java">
-            Day7
+        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week3/Day12/BOJ_13164.java">
+            Day12
         </a>
       </td>
       <td align="center">
@@ -204,24 +150,52 @@
     </tr>
     <tr>
       <td align="center">
-        8
+        6
       </td>
       <td align="center">
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/11399">
-            11399
+        <a href="https://www.acmicpc.net/problem/1931">
+            1931
         </a>
       </td>
       <td align="center">
-        ATM
+        회의실배정
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190454014-9fe615b7-8213-4f9c-bbdd-b210314eafe1.png"></sub>
+      </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week2/Day8/BOJ_11399.java">
-            Day8
+        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week3/Day13/BOJ_1931.java">
+            Day13
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        7
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/20365">
+            20365
+        </a>
+      </td>
+      <td align="center">
+        블로그2
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453932-9fd875e8-79ee-4d3b-8f83-616a092b7c3a.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study2-Greedy/Week3/Day14/BOJ_20365.java">
+            Day14
         </a>
       </td>
       <td align="center">
